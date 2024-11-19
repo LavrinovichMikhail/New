@@ -94,3 +94,9 @@ console.log(currentTasks.filter(element =>
 console.log(currentTasks.reduce((accumulator,currentValue) =>
     accumulator + currentValue.length,0
 ))
+
+//changes
+//changes
+//changes
+//changes
+//changes
