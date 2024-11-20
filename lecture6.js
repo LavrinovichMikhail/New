@@ -97,11 +97,6 @@ console.log(currentTasks.reduce((accumulator,currentValue) =>
 
 //changes
 //changes
-//changes
-//changes
-//changes
-//changes
-//changes
 
 //changes
 //changes
